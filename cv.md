@@ -5,17 +5,17 @@
 > LinkedIn: <https://www.linkedin.com/in/ace-g-80b802187/>  
 > GitHub: <https://github.com/GeorgeTuz>
 
-### George Tuz – Junior Front-end Developer
+## George Tuz – Junior Front-end Developer
 
 ##### Personal information
 Date of birth: 09.08.1992  
 Marital status: unmarried/no  
 Military obligation status: in reserve  
 
-##### Professional skils
+#### Professional skils
 HTML, CSS, JavaScript, Json, Bootstrap, Joomla, SQL, Git, npm, Windows, VSCode, QA
 
-##### Education
+#### Education
 2013-2019  
 Polotsk State University  
 Faculty of Information technology  
@@ -27,18 +27,18 @@ Software testing basics
 
 Online courses: Htmlacademy, Codeacademy, Codewars  
 
-##### Experience
+#### Experience
 January 2017 - Desember 2017  
 State institution of additional education for adults “Center for Advanced Studies of Executives and Specialists of the Committee on Agriculture and Foodstuffs of the Mogilyov Regional Executive Committee”  
 Software Engineer  
 Service, setup of computers and electronic devices, website development  
 
-##### My projects
+#### My projects
 <http://c29815gb.beget.tech>  
 <https://usadbaminsk.by>  
 
-##### English level
+#### English level
 Pre-Intermediate
 
-##### Future professional plans
+#### Future professional plans
 Progress in actual front-end technologies. Learning new frameworks and improve my english language skills.
