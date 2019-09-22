@@ -1,0 +1,41 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(240, 240, 240);
+}
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+}
+header{
+    padding: 40px 80px 0 80px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.foto {
+    height: 180px;
+}
+.info {
+    text-align: right;
+    padding-top: 10px;
+}
+main {
+    padding: 0 80px 40px 80px;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+h3 {
+    width: 100%;
+    margin: 0.7em 0;
+}
+.definition {
+    text-align: right;
+    width: 35%;
+}
+.explanation {
+    padding-left: 20px;
+    padding-bottom: 15px;
+    width: 45%;
+}
